@@ -1,5 +1,8 @@
 _repo: Poesias-Eroticas-Burlescas-e-Satyricas-de-MM-de-Barbosa-du-Bocage-nao-comprehendidas-na-edica__58689
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58689-h/images/cover.jpg
 creator:
   author:
     agent_name: Bocage, Manuel Maria Barbosa du
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8542
     wikipedia: http://pt.wikipedia.org/wiki/Manuel_Maria_Barbosa_du_Bocage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58689#Poesias-Eroticas-Burlescas-e-Satyricas-de-MM-de-Barbosa-du-Bocage-nao-comprehendidas-na-edica_
 gutenberg_issued: '2019-01-13'
 gutenberg_type: Text
 identifiers:
